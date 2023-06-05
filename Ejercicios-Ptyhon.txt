@@ -1,4 +1,6 @@
-01 - Escribí un programa que solicite al usuario que ingrese su nombre. El nombre se debe almacenar en una variable llamada nombre. A continuación se debe mostrar en pantalla el texto “Ahora estás en la matrix, [usuario]”, donde “[usuario]” se reemplazará por el nombre que el usuario haya ingresado.
+01 - Escribí un programa que solicite al usuario que ingrese su nombre. El nombre se debe almacenar en una variable llamada nombre.
+ A continuación se debe mostrar en pantalla el texto “Ahora estás en la matrix, [usuario]”, donde “[usuario]” se reemplazará por el 
+ nombre que el usuario haya ingresado.
  
 Ejemplo de ejecución:
 
@@ -6,3 +8,100 @@ Tu nombre: Patricia
 Ahora estás en la matrix, Patricia
 
  ----------------------------------------------------------------------------------------------------------------------
+
+ 02 - Escribí un programa que solicite al usuario ingresar un número con decimales y almacenalo en una variable. A continuación, el
+  programa debe solicitar al usuario que ingrese un número entero y guardarlo en otra variable. En una tercera variable se deberá 
+  guardar el resultado de la suma de los dos números ingresados por el usuario. Por último, se debe mostrar en pantalla el texto “El resultado de la suma es [suma]”, donde “[suma]” se reemplazará por el resultado de la operación.
+ 
+Ejemplo de ejecución:
+
+Primer número: 14.2
+Segundo número: 19
+El resultado de la suma es 33.2
+
+(sin usar funciones)
+
+-------------------------------------------------------------------------------------------------------------------------
+
+03 - Escribí un programa que solicite al usuario dos números y los almacene en dos variables. En otra variable, almacená el resultado 
+de la suma de esos dos números y luego mostrá ese resultado en pantalla.
+A continuación, el programa debe solicitar al usuario que ingrese un tercer número, el cual se debe almacenar en una nueva variable
+. Por último, mostrá en pantalla el resultado de la multiplicación de este nuevo número por el resultado de la suma anterior.
+ 
+Ejemplo de ejecución:
+
+Ingresá un número: 1
+Ingresá otro número: 2
+Suman: 3
+Ingresá un nuevo número: 3
+Multiplicación de la suma por el último número: 9
+
+(sin usar funciones)
+
+--------------------------------------------------------------------------------------------------------------------------
+
+04 -  Escribí un programa que solicite al usuario ingresar la cantidad de kilómetros recorridos por una motocicleta y la cantidad de litros
+ de combustible que consumió durante ese recorrido. Mostrar el consumo de combustible por kilómetro.
+ 
+Ejemplo de ejecución:
+
+Kilómetros recorridos: 260
+Litros de combustible gastados: 12.5
+El consumo por kilómetro es de 20.8
+
+----------------------------------------------------------------------------------------------------------------------------
+
+05 - Escribí un programa que solicite al usuario el ingreso de una temperatura en escala Fahrenheit (debe permitir decimales) y le muestre
+ el equivalente en grados Celsius. La fórmula de conversión que se usa para este cálculo es: _Celsius = (5/9) * (Fahrenheit-32)_
+
+ 
+Ejemplo de ejecución:
+
+Ingresá una temperatura expresada en Farenheit: 75
+23.88888888888889
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+06 - Escribí un programa que solicite al usuario ingresar tres números para luego mostrarle el promedio de los tres.
+ 
+Ejemplo de ejecución:
+
+Primer número: 8.5
+Segundo número: 10
+Tercer número: 5.5
+El promedio de los tres es 8.0
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+07 - Escribí un programa que solicite al usuario un número y le reste el 15%, almacenando todo en una única variable. A continuación,
+ mostrar el resultado final en pantalla.
+ 
+Ejemplo de ejecución:
+
+Ingresá un número: 260
+Descontando el 15% queda: 221.0
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+08 - Escribí un programa que solicite al usuario el ingreso de dos palabras, las cuales se guardarán en dos variables distintas. A continuación, almacená en una variable la concatenación de la primera palabra, más un espacio, más la segunda palabra. Mostrá este resultado en pantalla.
+ 
+Ejemplo de ejecución:
+
+Primera palabra: derribando
+Segunda palabra: muros
+derribando muros
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+09 - Escribí un programa que solicite al usuario el ingreso de un texto y almacene ese texto en una variable. A continuación, mostrar en pantalla la primera letra del texto ingresado. Luego, solicitar al usuario que ingrese un número positivo menor a la cantidad de caracteres que tiene el texto que ingresó (por ejemplo, si escribió la palabra “HOLA”, tendrá que ser un número entre 0 y 4) y almacenar este número en una variable llamada indice.
+Mostrar en pantalla el carácter del texto ubicado en la posición dada por indice.
+ 
+Ejemplo de ejecución:
+
+Ingresá un texto: En un lugar de La Mancha, de cuyo nombre no quiero acordarme…
+El carácter en primer lugar es: E
+Ingresá un número positivo menor a 63
+7
+El carácter en esa posición es: u
+
+----------------------------------------------------------------------------------------------------------------------------------
