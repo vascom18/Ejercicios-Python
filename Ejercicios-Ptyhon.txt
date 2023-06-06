@@ -554,3 +554,12 @@ Número entero: 292
 Número entero: 3
 Número entero: 954
 Tienen sólo 2 divisores: 4 números
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+46 - -Desarrolle un programa que solicite 10 palabras ingresadas por teclado. El programa debe separar las vocales y las letras en dos cadenas primero las vocales seguidas de un guion y
+luego las letras. 
+
+Ejemplo de ejecucion: palabra -- aaa-plbr.
+
+--------------------------------------------------------------------------------------------------------------------------------------
