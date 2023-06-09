@@ -15,3 +15,4 @@ cent=(5/9)*(temp-32)
 print('la temperatura en grados centigrados es: '+ str(cent) )
 
  
+                    
